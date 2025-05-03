@@ -1,2 +1,3 @@
 # sutra-cookbook
-A collection of notebooks and starter apps using SUTRA models. 
+A collection of notebooks, recipes and starter apps using SUTRA models. 
+
