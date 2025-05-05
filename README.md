@@ -1,4 +1,4 @@
-# SUTRA™ - Powerful Multilingual AI Model
+# SUTRA COOKBOOK by TWO AI
 
 <div align="right">
   <a href="README.md">English</a> |
