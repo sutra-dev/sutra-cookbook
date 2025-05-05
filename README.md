@@ -38,7 +38,6 @@ SUTRA is a family of large multi-lingual language models (LMLMs) developed by [T
 
 Get your API key by visiting [TWO AI's SUTRA API page](https://www.two.ai/sutra/api).
 
-⚠️ **Security Note:** Keep your API key secure! Never expose it in client-side code or public repositories.
 
 ### API Endpoint
 
