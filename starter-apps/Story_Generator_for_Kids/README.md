@@ -4,7 +4,7 @@ A Streamlit application that generates engaging, age-appropriate stories for chi
 
 ## 🌟 Features
 
-- **Multilingual Support**: Generate stories in 22+ languages including Hindi, Gujarati, Bengali, Tamil, Telugu, etc.
+- **Multilingual Support**: Generate  stories in 22+ languages including Hindi, Gujarati, Bengali, Tamil, Telugu, etc.
 - **Age-Appropriate Content**: Tailor stories for different age groups (3-5, 6-8, 9-12 years)
 - **Customizable Stories**: Select themes, character types, settings, and moral values
 - **Engaging UI**: Kid-friendly interface with icons and simple navigation

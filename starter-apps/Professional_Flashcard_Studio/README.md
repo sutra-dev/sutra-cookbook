@@ -4,7 +4,7 @@ A Streamlit application for creating high-quality, educational flashcards in 50+
 
 ## 🌟 Features
 
-- **Extensive Language Support**: Generate flashcards in 50+ languages including English, Hindi, Gujarati, Bengali, Tamil, Telugu, and many international languages
+- **Extensive Language Support**: Generate  flashcards in 50+ languages including English, Hindi, Gujarati, Bengali, Tamil, Telugu, and many international languages
 - **Professional-Grade Content**: Creates industry-standard educational flashcards with clear structure and academic precision
 - **Customizable Generation**: Adjust the number of flashcards and add custom instructions for tailored content
 - **Comprehensive Learning Structure**: Balanced coverage of foundational concepts, terminology, processes, and advanced applications

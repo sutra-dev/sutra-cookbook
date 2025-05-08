@@ -4,7 +4,7 @@ A Streamlit application for creating educational questions in 50+ languages usin
 
 ## 🌟 Features
 
-- **Rich Language Support**: Generate questions in 50+ languages including English, Hindi, Gujarati, Bengali, Tamil, Telugu, and many international languages
+- **Rich Language Support**: Generate questions in 50+ languages including English, Hindi, Gujarati,  Bengali, Tamil, Telugu, and many international languages
 - **Multiple Question Formats**: Create different types of questions including Multiple Choice, Short Answer, True/False, and Fill in the Blank
 - **Customizable Generation**: Adjust number of questions and add custom instructions to tailor content
 - **Educational Enhancement**: Includes explanations and correct answers with each question

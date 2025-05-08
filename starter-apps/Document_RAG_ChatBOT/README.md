@@ -1,6 +1,6 @@
-# 📚 Sutra Document Chatbot - Multilingual RAG Application
+# 📚 SUTRA Document Chatbot - Multilingual RAG Application
 
-A Streamlit application that allows users to chat with their documents in 34+ languages using the Sutra LLM and RAG (Retrieval-Augmented Generation) technology.
+A Streamlit application that allows users to  chat with their documents in 34+ languages using the Sutra LLM and RAG (Retrieval-Augmented Generation) technology.
 
 ## 🌟 Features
 

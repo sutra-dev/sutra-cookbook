@@ -4,7 +4,7 @@ A Streamlit application that summarizes news articles in 50+ languages using the
 
 ## 🌟 Features
 
-- **Extensive Language Support**: Summarize news in 50+ languages including Hindi, English, Gujarati, Bengali, Tamil, Telugu, French, Chinese, Arabic, and many more
+- **Extensive Language Support**:  Summarize news in 50+ languages including Hindi, English, Gujarati, Bengali, Tamil, Telugu, French, Chinese, Arabic, and many more
 - **Real-time Streaming**: Experience fluid summarization with streaming responses
 - **Multiple Input Options**: Paste text, upload files (TXT, PDF, MD), or provide a URL
 - **Customizable Outputs**: Tailor summaries with different lengths, styles, and focus areas

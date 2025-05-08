@@ -1,6 +1,6 @@
 # 🏛️ Government Scheme Explainer
 
-A Streamlit application that explains Indian government schemes in multiple regional languages using the Sutra LLM from Two.ai.
+A Streamlit application that explains Indian government schemes in multiple regional languages using the Sutra LLM  from Two.ai.
 
 ## 🌟 Features
 

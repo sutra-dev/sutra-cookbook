@@ -4,7 +4,7 @@ A Streamlit application that enables conversations in 50+ languages using the po
 
 ## 🌟 Features
 
-- **Extensive Language Support**: Chat in 50+ languages including Hindi, English, Gujarati, Bengali, Tamil, Telugu, French, Chinese, Arabic, and many more
+- **Extensive Language Support**: Chat in  50+ languages including Hindi, English, Gujarati, Bengali, Tamil, Telugu, French, Chinese, Arabic, and many more
 - **Real-time Streaming**: Experience fluid conversations with streaming responses
 - **User-friendly Interface**: Clean, intuitive UI with dark mode support
 - **Conversation History**: Review your complete chat history within the session

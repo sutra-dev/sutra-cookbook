@@ -1,6 +1,6 @@
 # 🌾 Krishi Mitra (कृषि मित्र) - Farmer Assistant
 
-A Streamlit application providing personalized agricultural advice to farmers in 13 Indian languages using the Sutra LLM from Two.ai.
+A Streamlit application providing  personalized agricultural advice to farmers in 13 Indian languages using the Sutra LLM from Two.ai.
 
 ## 🌟 Features
 
