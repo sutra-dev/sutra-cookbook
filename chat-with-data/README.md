@@ -1,6 +1,6 @@
-# Retrieval-Augmented Generation (RAG) with Sutra
+# Retrieval-Augmented Generation (RAG) with SUTRA
 
-This directory contains examples and best practices for implementing Retrieval-Augmented Generation (RAG) systems using Sutra.
+This directory contains examples and best practices for implementing Retrieval-Augmented Generation (RAG) systems using SUTRA.
 
 ## Contents
 
@@ -16,7 +16,6 @@ This directory contains examples and best practices for implementing Retrieval-A
 - Semantic search implementation
 - Context augmentation strategies
 - Hybrid retrieval approaches
-- Fine-tuning for domain-specific applications
 
 ## Use Cases
 

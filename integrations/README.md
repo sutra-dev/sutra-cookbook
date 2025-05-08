@@ -1,11 +1,10 @@
-# Sutra Integrations
+# SUTRA Integrations
 
 This directory contains examples and guides for integrating Sutra with other tools, platforms, and services.
 
 ## Contents
 
 - Third-party API integrations
-- Database connectors
 - Framework compatibility examples
 
 

@@ -13,7 +13,7 @@ This directory contains introductory materials and examples to help you get star
 
 - Basic understanding of AI/ML concepts
 - Python programming knowledge
-- Sutra account (sign up at [sutra.ai](https://sutra.ai) if you don't have one)
+- Get Your API Key (Enter Your Email at [two.ai/sutra](https://www.two.ai/sutra) if you don't have one)
 
 ## Next Steps
 

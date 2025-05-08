@@ -20,7 +20,7 @@
 
 SUTRA is a family of large multi-lingual language models (LMLMs) developed by [TWO AI](https://www.two.ai). SUTRA's dual-transformer architecture extends the power of both MoE (Mixture of Experts) and Dense AI language model approaches, delivering cost-efficient multilingual capabilities across 50+ languages.
 
-## What You'll Find in This Cookbook
+## What You'll Find in This Repository
 
 | Section | Description |
 |---------|-------------|
