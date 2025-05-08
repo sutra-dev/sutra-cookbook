@@ -1,4 +1,3 @@
-# SUTRA™ - शक्तिशाली बहुभाषी AI मॉडल
 
 <div align="right">
   <a href="README.md">English</a> |
@@ -6,13 +5,16 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/Shubhwithai/Sutra_Cookbooks/blob/main/images/logo-.png" alt="TWO AI Logo" width="400"/>
+  <img src="https://github.com/Shubhwithai/Sutra_Cookbooks/blob/main/images/SUTRA%20Cookbooks.svg" alt="SUTRA Banner" width="800"/>
 </p>
 
-[![API Status](https://img.shields.io/badge/API-Active-success.svg)](https://www.two.ai/sutra/api)
-[![Documentation](https://img.shields.io/badge/Docs-Available-blue.svg)](https://docs.two.ai/version-2/docs/get-started-with-sutra)
-[![Languages](https://img.shields.io/badge/Languages-50%2B-orange.svg)](https://www.two.ai/sutra)
-[![Twitter Follow](https://img.shields.io/twitter/follow/two_platforms?style=social)](https://twitter.com/two_platforms)
+<p align="center">
+  <a href="https://www.two.ai/sutra/api"><img src="https://img.shields.io/badge/API-Active-success.svg" alt="API Status"></a>
+  <a href="https://docs.two.ai/version-2/docs/get-started-with-sutra"><img src="https://img.shields.io/badge/Docs-Available-blue.svg" alt="Documentation"></a>
+  <a href="https://www.two.ai/sutra"><img src="https://img.shields.io/badge/Languages-50%2B-orange.svg" alt="Languages"></a>
+  <a href="https://twitter.com/two_platforms"><img src="https://img.shields.io/twitter/follow/two_platforms?style=social" alt="Twitter Follow"></a>
+  <a href="https://discord.gg/NjWD9GEm"><img src="https://img.shields.io/badge/Discord-Join%20Us-7289DA?logo=discord&logoColor=white" alt="Discord"></a>
+</p>
 
 ## अवलोकन
 
