@@ -1,60 +1,55 @@
-# Multilingual Capabilities with SUTRA™
+# Sutra Multilingual Capabilities Guide
 
-## Overview
+Welcome! This directory demonstrates the powerful multilingual capabilities of [SUTRA](https://www.two.ai/sutra), a family of advanced language models by TWO AI. SUTRA excels at understanding and generating content in 50+ languages, with special strengths in Indian, Asian, European, and African languages. Whether you need translation, code-switching, sentiment analysis, or creative writing, SUTRA is designed for global and regional applications.
 
-This directory contains examples and guides demonstrating SUTRA's powerful multilingual capabilities across 50+ languages. SUTRA's dual-transformer architecture is specifically designed to excel at multilingual tasks, making it an ideal choice for global applications requiring language understanding and generation across diverse linguistic contexts.
+## What You'll Find Here
 
-## Contents
+- **Comprehensive multilingual demo notebook**: Explore SUTRA's performance across Indian and international languages
+- **Language-specific notebooks**: Hands-on examples for individual Indian and foreign languages
+- **Best practices**: Tips for getting the most out of SUTRA in multilingual scenarios
 
-This folder is intended for future multilingual examples and resources. Currently, multilingual examples can be found in other sections of the repository:
+## Included Notebooks
 
-- [Using Regional Languages with SUTRA](../getting-started/Using_Regional_Languages_with_Sutra.ipynb) - A comprehensive notebook demonstrating SUTRA's capabilities across various Indian languages (Hindi, Tamil, Bengali, Telugu, Marathi, Punjabi) and international languages (Arabic, Chinese, Spanish, Russian, Swahili).
+- [Multilingual with SUTRA (main demo)](multilingual_with_sutra.ipynb.ipynb) ([Open in Colab](https://colab.research.google.com/drive/10XCd_x88UCoOZgdtX-clce6lr5wkOT-X?usp=sharing))
 
-Additionally, there is a markdown version of the notebook available in the main repository:
+### Indian Language Demos
+- [Hindi with SUTRA](indian_languages/hindi_with_sutra.ipynb)
+- [Telugu with SUTRA](indian_languages/telugu_with_sutra.ipynb)
+- [Marathi with SUTRA](indian_languages/marathi_with_sutra.ipynb)
+- [Gujarati with SUTRA](indian_languages/gujarati_with_sutra.ipynb)
 
-- [Using Regional Languages with SUTRA (Markdown)](../../Using_Regional_Languages_with_Sutra.md) - Contains the same content as the notebook but in markdown format with a Colab link for easy access.
+### Foreign Language Demos
+- [French with SUTRA](foreign_languages/french_with_sutra.ipynb)
+- [English with SUTRA](foreign_languages/english_with_sutra.ipynb)
+- [Korean with SUTRA](foreign_languages/Korean_with_Sutra.ipynb)
 
-## Future Plans
+## Prerequisites
 
-This folder will be expanded with additional multilingual examples and resources, including:
+- Basic Python programming knowledge
+- Familiarity with Jupyter or Google Colab (recommended)
+- [Get your SUTRA API key](https://www.two.ai/sutra/api) (free for signup)
 
-1. Language-specific fine-tuning examples
-2. Specialized multilingual RAG implementations
-3. Cross-lingual transfer learning demonstrations
-4. Industry-specific multilingual use cases
-5. Multilingual chatbot examples
+## How to Use
+
+1. **Open any notebook above in Google Colab** (recommended) or your local Jupyter environment.
+2. **Install dependencies** (see the first cell in each notebook).
+3. **Add your SUTRA API key** when prompted (Colab: use the secret manager for best security).
+4. **Run the cells and experiment!**
 
 ## Key Multilingual Features
 
-### Language Support
-
-SUTRA provides robust support for 50+ languages including:
-
-- **Indian Languages**: Hindi, Tamil, Bengali, Telugu, Marathi, Punjabi, Gujarati, Kannada, Malayalam, Odia, and more
-- **European Languages**: English, Spanish, French, German, Italian, Portuguese, Russian, Polish, Dutch, and more
-- **Asian Languages**: Chinese (Simplified & Traditional), Japanese, Korean, Arabic, Thai, Vietnamese, and more
-- **African Languages**: Swahili, Yoruba, Zulu, Amharic, and more
-
-### Multilingual Capabilities
-
-SUTRA excels at various multilingual tasks including:
-
-- **Translation**: High-quality translation between multiple language pairs
-- **Code-Switching**: Seamless handling of mixed-language content
-- **Cross-lingual Understanding**: Comprehending concepts across language boundaries
-- **Multilingual Content Generation**: Creating high-quality content in multiple languages
-- **Sentiment Analysis**: Understanding sentiment nuances across different languages
-- **Creative Writing**: Generating creative content respecting cultural contexts
+- **Translation** between dozens of language pairs
+- **Code-switching** and mixed-language content handling
+- **Cross-lingual understanding** and reasoning
+- **Multilingual content generation**
+- **Sentiment analysis** and creative writing in multiple languages
 
 ## Best Practices
 
-When working with SUTRA for multilingual applications:
-
-1. **Provide Clear Language Context**: While SUTRA can detect languages automatically, specifying the target language can improve results
-2. **Consider Cultural Context**: Different languages have different cultural contexts that affect meaning
-3. **Test Across Languages**: Validate your prompts and applications across multiple languages
-4. **Leverage Code-Switching**: SUTRA handles mixed-language content well, which can be useful for certain applications
-5. **Use Language-Specific Examples**: When fine-tuning or using few-shot learning, provide examples in the target language
+- Specify the target language for best results
+- Consider cultural context in prompts and outputs
+- Test across multiple languages for robustness
+- Use code-switching for real-world, mixed-language scenarios
 
 ## Resources
 
@@ -62,22 +57,9 @@ When working with SUTRA for multilingual applications:
 - [Tokenizer Comparison Tool](https://huggingface.co/spaces/TWO/sutra-tokenizer-comparison)
 - [Main SUTRA Cookbooks Repository](https://github.com/Shubhwithai/Sutra_Cookbooks)
 
-## Repository Structure
+---
 
-As mentioned in the main README, the Sutra Cookbooks repository is organized into the following sections:
-
-1. **getting-started** - Introductory materials and examples including the multilingual notebook
-2. **integrations** - Integration guides with other tools
-3. **starter-apps** - Ready-to-use application templates
-4. **agents** - Agent building examples and tutorials
-5. **usecases** - Real-world use case implementations
-6. **rag** - Retrieval-Augmented Generation examples
-7. **images** - Documentation images
-8. **multilingual** - This folder, dedicated to multilingual capabilities (under development)
-
-## Contributing
-
-We welcome contributions of additional multilingual examples and use cases! Please follow the repository's contribution guidelines when submitting new content.
+For more, visit the [Sutra Documentation](https://docs.sutra.ai) or join the [Sutra Community Forum](https://community.sutra.ai).
 
 ---
 
