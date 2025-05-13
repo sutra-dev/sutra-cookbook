@@ -15,5 +15,4 @@ Refer to the examples in this directory to learn how to create, configure, and d
 
 ## Related Resources
 
-- [Sutra Documentation](https://docs.sutra.ai)
-- [Agent API Reference](https://docs.sutra.ai/api/agents)
+- [Sutra Documentation](https://docs.two.ai/version-2/docs/get-started-with-sutra)

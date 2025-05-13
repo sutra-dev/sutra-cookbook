@@ -34,4 +34,4 @@ Explore the rest of the Sutra Cookbook for more advanced use cases, prompt engin
 
 ---
 
-For more, visit the [Sutra Documentation](https://docs.sutra.ai) or join the [Sutra Community Forum](https://community.sutra.ai).
+For more, visit the [Sutra Documentation](https://docs.sutra.ai)
