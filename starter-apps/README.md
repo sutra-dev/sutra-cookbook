@@ -44,4 +44,4 @@ Welcome! This directory features ready-to-use, production-quality applications b
 
 ---
 
-For more, visit the [Sutra Documentation](https://docs.sutra.ai) or join the [Sutra Community Forum](https://community.sutra.ai).
+For more, visit the [Sutra Documentation](https://docs.two.ai/version-2/docs/get-started-with-sutra) 
