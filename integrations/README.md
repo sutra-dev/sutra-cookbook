@@ -1,4 +1,4 @@
-# Sutra Integrations Guide
+# SUTRA Integrations Guide
 
 Welcome! This directory showcases how to connect [SUTRA](https://www.two.ai/sutra)—a powerful multilingual language model family by TWO AI—with leading frameworks and agentic platforms. These integration notebooks help you leverage SUTRA's capabilities in your own LLM-powered workflows, apps, and pipelines.
 
