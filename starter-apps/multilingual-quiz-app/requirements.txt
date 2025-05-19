@@ -1,0 +1,5 @@
+streamlit
+educhain
+langchain-openai
+pandas
+python-dotenv
