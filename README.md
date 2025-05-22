@@ -36,6 +36,7 @@ SUTRA is a family of large multi-lingual language models (LMLMs) developed by [T
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1j7B8mDIU8KMZ_IB-oaL_qLqXmWYYh0Xu)
 
+
 ## Get Your API Key
 
 Get your API key by visiting [TWO AI's SUTRA API page](https://www.two.ai/sutra/api).
@@ -138,6 +139,11 @@ async function testSutra() {
 - Follow [@two_platforms](https://twitter.com/two_platforms) on Twitter for updates
 - Visit [TWO AI's website](https://www.two.ai) for more information
 
+
+### Video Tutorial
+
+[![Watch the video](https://img.youtube.com/vi/c_eKp1E48DE/maxresdefault.jpg)](https://www.youtube.com/watch?v=c_eKp1E48DE)
+
 ## Contributing
 
 We welcome contributions to the SUTRA Cookbooks repository! To contribute:
@@ -150,6 +156,7 @@ We welcome contributions to the SUTRA Cookbooks repository! To contribute:
 
 For major changes, please open an issue first to discuss your ideas.
 
+
 ## Legal
 
 - [Privacy Policy](https://two.ai/legal/privacy)
@@ -158,3 +165,4 @@ For major changes, please open an issue first to discuss your ideas.
 ---
 
  2025 TWO AI | All Rights Reserved
+

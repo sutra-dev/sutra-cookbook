@@ -1,4 +1,4 @@
-# Sutra Starter Applications
+# SUTRA Starter Applications
 
 Welcome! This directory features ready-to-use, production-quality applications built with [SUTRA](https://www.two.ai/sutra), a powerful multilingual language model by TWO AI. These apps are designed as templates and inspiration for your own projects—spanning education, government, agriculture, content creation, and more.
 
@@ -10,7 +10,7 @@ Welcome! This directory features ready-to-use, production-quality applications b
 
 ## Included Applications
 
-- **Sutra Multilingual Chatbot**: Real-time chat in 50+ languages with streaming, history, and language switching ([sutra_multilingual_chat](sutra_multilingual_chat/))
+- **SUTRA Multilingual Chatbot**: Real-time chat in 50+ languages with streaming, history, and language switching ([sutra_multilingual_chat](sutra_multilingual_chat/))
 - **Story Generator for Kids**: Create age-appropriate, moral-rich stories in 22+ Indian languages ([story_generator_for_kids](story_generator_for_kids/))
 - **Professional Flashcard Studio**: Generate educational flashcards in 50+ languages for any topic ([professional_flashcard_studio](professional_flashcard_studio/))
 - **Regional News Summarizer**: Summarize news articles in 50+ languages from text, files, or URLs ([regional_news_summarizer](regional_news_summarizer/))

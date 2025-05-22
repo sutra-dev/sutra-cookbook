@@ -1,4 +1,4 @@
-# Sutra Example Notebooks
+# SUTRA Example Notebooks
 
 Welcome! This directory contains example notebooks that showcase how to use [SUTRA](https://www.two.ai/sutra) in real-world scenarios and compare its performance to other leading models.
 
