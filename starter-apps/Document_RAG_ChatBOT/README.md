@@ -26,7 +26,7 @@ A Streamlit application that allows users to  chat with their documents in 34+ l
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Shubhwithai/Sutra_Cookbooks.git
+   git clone https://github.com/sutra-dev/sutra-cookbook.git
    cd Sutra_Cookbooks/starter-apps/Document_RAG_ChatBOT
    ```
 

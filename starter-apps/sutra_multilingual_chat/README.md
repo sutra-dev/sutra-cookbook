@@ -24,7 +24,7 @@ A Streamlit application that enables conversations in 50+ languages using the po
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Shubhwithai/Sutra_Cookbooks.git
+   git clone https://github.com/sutra-dev/sutra-cookbook.git
    cd Sutra_Cookbooks/starter-apps/Sutra-Multilingual-Chat
    ```
 

@@ -32,9 +32,9 @@ languages = [
 st.sidebar.title("🌎 Travel Assistant")
 
 # Sutra API Key
-st.sidebar.markdown("1. *🌐 Sutra API Key*")
-st.sidebar.markdown("Get your free key from [Sutra API](https://www.two.ai/sutra/api)")
-sutra_api_key = st.sidebar.text_input("Enter your Sutra API Key:", type="password", key="sutra_key")
+st.sidebar.markdown("1. *🌐 SUTRA API Key*")
+st.sidebar.markdown("Get your free key from [SUTRA API](https://www.two.ai/sutra/api)")
+sutra_api_key = st.sidebar.text_input("Enter your SUTRA API Key:", type="password", key="sutra_key")
 
 # SerpAPI Key 
 st.sidebar.markdown("2. *🔍 SerpAPI Key*")
@@ -153,7 +153,7 @@ if not SERPAPI_KEY:
     st.sidebar.error("⚠️ SerpAPI key is required.")
 
 if not SUTRA_API_KEY:
-    st.sidebar.error("⚠️ Sutra API key is required.")
+    st.sidebar.error("⚠️ SUTRA API key is required.")
 
 # Initialize Sutra model for translations
 @st.cache_resource
