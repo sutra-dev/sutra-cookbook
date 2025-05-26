@@ -10,6 +10,7 @@ Welcome! This directory contains example notebooks that showcase how to use [SUT
 ## Included Notebooks
 
 - [SUTRA vs OpenAI Models](sutra_vs_openai_models.ipynb) ([Open in Colab](https://colab.research.google.com/drive/175pEoGuZX_6s2lxzXiiT4lYS76QIdg-k?usp=sharing)) — Compare SUTRA V2 and OpenAI models across a variety of tasks and metrics
+- [Structured Output with Pydantic](structured_output_with_pydantic.ipynb) ([Open in Colab](https://colab.research.google.com/github/Shubhwithai/sutra-cookbook/blob/main/examples/structured_output_with_pydantic.ipynb)) — Use Pydantic to get structured outputs from SUTRA
 
 ## Prerequisites
 
@@ -27,4 +28,3 @@ Welcome! This directory contains example notebooks that showcase how to use [SUT
 
 ---
 
-For more, visit the [Sutra Documentation](https://docs.two.ai/version-2/docs/get-started-with-sutra) 

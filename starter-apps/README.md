@@ -18,6 +18,10 @@ Welcome! This directory features ready-to-use, production-quality applications b
 - **Multilingual Question Generator**: Create MCQs, short answer, and more in 50+ languages ([multilingual_question_generator](multilingual_question_generator/))
 - **Krishi Mitra (Farmer Assistant)**: Personalized agricultural advice for Indian farmers in 13 languages ([farmer_assistant](farmer_assistant/))
 - **Document RAG Chatbot**: Chat with your documents (PDF/DOCX) in 34+ languages using RAG ([document_rag_chatbot](document_rag_chatbot/))
+- **AI Travel Planner**: Generate personalized travel itineraries in multiple languages ([ai-travel-planner](ai-travel-planner/))
+- **Multilingual Quiz App**: Create and take quizzes in multiple languages ([multilingual-quiz-app](multilingual-quiz-app/))
+- **Indian Personalities Simulator**: Interact with simulated Indian historical figures ([Indian-personalities-simulator](Indian-personalities-simulator/))
+- **SUTRA Paper Translator**: Translate academic papers between multiple languages ([sutra-paper-translator](sutra-paper-translator/))
 
 ## Prerequisites
 
@@ -44,4 +48,3 @@ Welcome! This directory features ready-to-use, production-quality applications b
 
 ---
 
-For more, visit the [Sutra Documentation](https://docs.two.ai/version-2/docs/get-started-with-sutra) 

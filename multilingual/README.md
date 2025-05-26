@@ -1,4 +1,4 @@
-# Sutra Multilingual Capabilities Guide
+# SUTRA Multilingual Capabilities Guide
 
 Welcome! This directory demonstrates the powerful multilingual capabilities of [SUTRA](https://www.two.ai/sutra), a family of advanced language models by TWO AI. SUTRA excels at understanding and generating content in 50+ languages, with special strengths in Indian, Asian, European, and African languages. Whether you need translation, code-switching, sentiment analysis, or creative writing, SUTRA is designed for global and regional applications.
 
@@ -56,10 +56,6 @@ Welcome! This directory demonstrates the powerful multilingual capabilities of [
 - [SUTRA API Documentation](https://docs.two.ai/version-2/docs/get-started-with-sutra)
 - [Tokenizer Comparison Tool](https://huggingface.co/spaces/TWO/sutra-tokenizer-comparison)
 - [Main SUTRA Cookbooks Repository](https://github.com/Shubhwithai/Sutra_Cookbooks)
-
----
-
-For more, visit the [Sutra Documentation](https://docs.two.ai/version-2/docs/get-started-with-sutra) 
 
 ---
 

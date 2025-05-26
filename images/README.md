@@ -1,4 +1,4 @@
-# Sutra Images
+# SUTRA Images
 
 This directory contains images used throughout the Sutra Cookbooks documentation and examples.
 

@@ -10,9 +10,12 @@ Welcome! This directory showcases how to connect [SUTRA](https://www.two.ai/sutr
 
 ## Included Notebooks
 
-- [Sutra with LlamaIndex](sutra_with_llamaindex.ipynb) ([Open in Colab](https://colab.research.google.com/github/Shubhwithai/sutra-cookbook/blob/main/integrations/sutra_with_llamaindex.ipynb))
-- [Sutra with LangChain](sutra_with_langchain.ipynb) ([Open in Colab](https://colab.research.google.com/github/Shubhwithai/sutra-cookbook/blob/main/integrations/sutra_with_langchain.ipynb))
-- [Sutra with Agno](sutra_with_agno.ipynb) ([Open in Colab](https://colab.research.google.com/github/Shubhwithai/sutra-cookbook/blob/main/integrations/sutra_with_agno.ipynb))
+- [SUTRA with LlamaIndex](sutra_with_llamaindex.ipynb) ([Open in Colab](https://colab.research.google.com/github/Shubhwithai/sutra-cookbook/blob/main/integrations/sutra_with_llamaindex.ipynb)) - Build RAG applications with LlamaIndex
+- [SUTRA with LangChain](sutra_with_langchain.ipynb) ([Open in Colab](https://colab.research.google.com/drive/1OYpQFo88aLWbv0D1_DA2j4HZGRxTjRcK?usp=sharing)) - Create chains and agents with LangChain
+- [SUTRA with Agno](sutra_with_agno.ipynb) ([Open in Colab](https://colab.research.google.com/github/Shubhwithai/sutra-cookbook/blob/main/integrations/sutra_with_agno.ipynb)) - Build agentic workflows with Agno
+- [SUTRA Using LiteLLM](sutra_using_litellm.ipynb) ([Open in Colab](https://colab.research.google.com/github/Shubhwithai/sutra-cookbook/blob/main/integrations/sutra_using_litellm.ipynb)) - Use SUTRA with LiteLLM for model routing
+- [SUTRA with Portkey](sutra_with_portkey.ipynb) ([Open in Colab](https://colab.research.google.com/github/Shubhwithai/sutra-cookbook/blob/main/integrations/sutra_with_portkey.ipynb)) - Integrate SUTRA with Portkey for LLM orchestration
+- [SUTRA with OPIK](sutra_with_opik.ipynb) ([Open in Colab](https://colab.research.google.com/drive/YOUR_NOTEBOOK_ID)) - Monitor and evaluate SUTRA with OPIK
 
 ## Prerequisites
 
@@ -34,4 +37,3 @@ Explore the rest of the Sutra Cookbook for more advanced use cases, prompt engin
 
 ---
 
-For more, visit the [Sutra Documentation](https://docs.sutra.ai)
