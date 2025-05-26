@@ -1,0 +1,5 @@
+PyPDF2
+openai
+streamlit
+requests
+python-dotenv
