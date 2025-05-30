@@ -130,14 +130,15 @@ async function testSutra() {
 
 ## Resources
 
-- [API Reference](https://docs.two.ai/version-2/docs/get-started-with-sutra)
-- [SUTRA Tokenizer on Hugging Face](https://huggingface.co/spaces/TWO/sutra-tokenizer-comparison)
-- [Sample Applications](https://github.com/sutra-dev)
+- Join our [Discord](https://discord.gg/zzGejjUx) community for real-time support and discussions
+- Chat with us on [Chat with SUTRA](https://chat.withsutra.com)
+- Follow [SUTRA](https://twitter.com/sutra_dev) on Twitter for updates
+
 
 ## Getting Support
 
-- Follow [@two_platforms](https://twitter.com/two_platforms) on Twitter for updates
 - Visit [TWO AI's website](https://www.two.ai) for more information
+- Contact us: hello@two.ai
 
 
 ### Video Tutorial
