@@ -1,4 +1,4 @@
-# SUTRA Agents Cookbook
+# SUTRA Agents Cookbooks
 
 This directory contains examples, tutorials, and best practices for building and deploying agents using SUTRA models with various agent frameworks.
 
