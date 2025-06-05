@@ -10,7 +10,7 @@ Welcome! This directory demonstrates the powerful multilingual capabilities of [
 
 ## Included Notebooks
 
-- [Multilingual with SUTRA (main demo)](multilingual_with_sutra.ipynb.ipynb) ([Open in Colab](https://colab.research.google.com/drive/10XCd_x88UCoOZgdtX-clce6lr5wkOT-X?usp=sharing))
+- [Multilingual with SUTRA (main demo)](multilingual_with_sutra.ipynb) ([Open in Colab](https://colab.research.google.com/drive/10XCd_x88UCoOZgdtX-clce6lr5wkOT-X?usp=sharing))
 
 ### Indian Language Demos
 - [Hindi with SUTRA](indian_languages/hindi_with_sutra.ipynb)

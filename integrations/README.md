@@ -7,6 +7,8 @@ Welcome! This directory showcases how to connect [SUTRA](https://www.two.ai/sutr
 - **LlamaIndex integration**: Use SUTRA as an LLM backend for data-augmented agents and retrieval workflows
 - **LangChain integration**: Build advanced chains, tools, and conversational agents with SUTRA
 - **Agno integration**: Create agentic, multimodal, and memory-augmented workflows with SUTRA
+- **LiteLLM integration**: Use SUTRA with LiteLLM for unified API access and model routing
+- **Portkey integration**: Integrate SUTRA with Portkey for LLM orchestration and monitoring
 
 ## Included Notebooks
 
@@ -15,15 +17,12 @@ Welcome! This directory showcases how to connect [SUTRA](https://www.two.ai/sutr
 - [SUTRA with Agno](sutra_with_agno.ipynb) ([Open in Colab](https://colab.research.google.com/github/Shubhwithai/sutra-cookbook/blob/main/integrations/sutra_with_agno.ipynb)) - Build agentic workflows with Agno
 - [SUTRA Using LiteLLM](sutra_using_litellm.ipynb) ([Open in Colab](https://colab.research.google.com/github/Shubhwithai/sutra-cookbook/blob/main/integrations/sutra_using_litellm.ipynb)) - Use SUTRA with LiteLLM for model routing
 - [SUTRA with Portkey](sutra_with_portkey.ipynb) ([Open in Colab](https://colab.research.google.com/github/Shubhwithai/sutra-cookbook/blob/main/integrations/sutra_with_portkey.ipynb)) - Integrate SUTRA with Portkey for LLM orchestration
-- [SUTRA with OPIK](sutra_with_opik.ipynb) ([Open in Colab](https://colab.research.google.com/drive/YOUR_NOTEBOOK_ID)) - Monitor and evaluate SUTRA with OPIK
 
 ## Prerequisites
 
 - Basic Python programming knowledge
 - Familiarity with Jupyter or Google Colab (recommended)
-- [Get your SUTRA API key](https://www.two.ai/sutra/api) (free for signup)
-- API keys for other frameworks (e.g., OpenAI, Tavily) as needed
-
+- [Get your SUTRA API key](https://www.two.ai/sutra/api) 
 ## How to Use
 
 1. **Open any notebook above in Google Colab** (recommended) or your local Jupyter environment.
@@ -36,4 +35,3 @@ Welcome! This directory showcases how to connect [SUTRA](https://www.two.ai/sutr
 Explore the rest of the Sutra Cookbook for more advanced use cases, prompt engineering, and real-world applications.
 
 ---
-

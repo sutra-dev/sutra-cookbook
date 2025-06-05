@@ -25,7 +25,7 @@ Welcome! This directory contains hands-on guides and beginner-friendly notebooks
 
 - Basic Python programming knowledge
 - Familiarity with Jupyter or Google Colab (recommended)
-- [Get your SUTRA API key](https://www.two.ai/sutra/api) (free for signup)
+- [Get your SUTRA API key](https://www.two.ai/sutra/api) 
 
 ## How to Use
 
@@ -34,9 +34,6 @@ Welcome! This directory contains hands-on guides and beginner-friendly notebooks
 3. **Add your SUTRA API key** when prompted (Colab: use the secret manager for best security).
 4. **Run the cells and experiment!**
 
-## Next Steps
-
-After completing these getting started materials, check out the main SUTRA Cookbook for advanced use cases, integrations, and real-world applications.
 
 ---
 
