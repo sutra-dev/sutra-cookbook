@@ -17,12 +17,14 @@ Welcome! This directory demonstrates the powerful multilingual capabilities of [
 - [Telugu with SUTRA](indian_languages/telugu_with_sutra.ipynb)
 - [Marathi with SUTRA](indian_languages/marathi_with_sutra.ipynb)
 - [Gujarati with SUTRA](indian_languages/gujarati_with_sutra.ipynb)
+- [Tamil with SUTRA](indian_languages/tamil_with_sutra.ipynb)
 
 ### Foreign Language Demos
 - [French with SUTRA](foreign_languages/french_with_sutra.ipynb)
 - [English with SUTRA](foreign_languages/english_with_sutra.ipynb)
 - [Korean with SUTRA](foreign_languages/Korean_with_Sutra.ipynb)
-
+- [German with SUTRA](foreign_languages/german_with_sutra.ipynb)
+- [Japanese with SUTRA](foreign_languages/japanese_with_sutra.ipynb)
 ## Prerequisites
 
 - Basic Python programming knowledge
