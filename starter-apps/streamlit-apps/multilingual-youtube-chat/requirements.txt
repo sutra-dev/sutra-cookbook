@@ -1,0 +1,10 @@
+yt-dlp
+streamlit
+python-dotenv
+requests
+langchain
+langchain-openai
+ffmpeg-python
+langchain-community
+ffmpeg
+python-ffmpeg
