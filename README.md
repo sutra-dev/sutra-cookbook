@@ -10,10 +10,10 @@
 
 <p align="center">
   <a href="https://www.two.ai/sutra/api"><img src="https://img.shields.io/badge/API-Active-success.svg" alt="API Status"></a>
-  <a href="https://docs.two.ai/version-2/docs/get-started-with-sutra"><img src="https://img.shields.io/badge/Docs-Available-blue.svg" alt="Documentation"></a>
+  <a href="https://docs.two.ai/"><img src="https://img.shields.io/badge/Docs-Available-blue.svg" alt="Documentation"></a>
   <a href="https://www.two.ai/sutra"><img src="https://img.shields.io/badge/Languages-50%2B-orange.svg" alt="Languages"></a>
-  <a href="https://x.com/sutra_dev"><img src="https://img.shields.io/twitter/follow/two_platforms?style=social" alt="Twitter Follow"></a>
-  <a href="https://discord.gg/NjWD9GEm"><img src="https://img.shields.io/badge/Discord-Join%20Us-7289DA?logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://x.com/sutra_dev"><img src="https://img.shields.io/twitter/follow/sutra_dev?style=social" alt="Twitter Follow"></a>
+  <a href="https://discord.com/invite/NK9h6MFpxF"><img src="https://img.shields.io/badge/Discord-Join%20Us-7289DA?logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
 ## Overview
@@ -130,8 +130,8 @@ async function testSutra() {
 
 ## Resources
 
-- Join our [Discord](https://discord.gg/zzGejjUx) community for real-time support and discussions
-- Chat with us on [Chat with SUTRA](https://chat.withsutra.com)
+- Join our [Discord](https://discord.com/invite/NK9h6MFpxF) community for real-time support and discussions
+- Chat with us on [Chat with SUTRA](https://chat.two.ai/)
 - Follow [SUTRA](https://twitter.com/sutra_dev) on Twitter for updates
 
 
