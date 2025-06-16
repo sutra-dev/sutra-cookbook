@@ -2,6 +2,7 @@
 
 A real-time chat application that breaks language barriers using [Sutra AI](https://www.two.ai/sutra/api) translation. Connect with anyone worldwide by chatting in your preferred language while they read in theirs.
 
+Deployed Link : https://multilingual-chatting-app.vercel.app/
 ## ✨ Features
 
 - **Real-time messaging** powered by Supabase Realtime
