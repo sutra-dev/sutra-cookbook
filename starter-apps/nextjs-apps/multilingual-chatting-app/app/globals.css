@@ -1,0 +1,220 @@
+@tailwind base;
+
+@custom-variant dark (&:is(.dark *));
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 224 100% 98%;
+    --foreground: 222 47% 11%;
+    --card: 0 0% 100%;
+    --card-foreground: 222 47% 11%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222 47% 11%;
+    --primary: 226 70% 55%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 226 30% 96%;
+    --secondary-foreground: 226 50% 25%;
+    --muted: 226 20% 96%;
+    --muted-foreground: 226 10% 40%;
+    --accent: 221 83% 53%;
+    --accent-foreground: 0 0% 100%;
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 220 20% 92%;
+    --input: 220 20% 92%;
+    --ring: 226 70% 55%;
+    --chart-1: 226 70% 60%;
+    --chart-2: 196 80% 55%;
+    --chart-3: 155 60% 45%;
+    --chart-4: 45 85% 60%;
+    --chart-5: 25 90% 65%;
+    --radius: 0.75rem;
+  }
+  .dark {
+    --background: 222 47% 7%;
+    --foreground: 0 0% 98%;
+    --card: 222 47% 7%;
+    --card-foreground: 0 0% 98%;
+    --popover: 222 47% 7%;
+    --popover-foreground: 0 0% 98%;
+    --primary: 226 70% 60%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 222 47% 12%;
+    --secondary-foreground: 0 0% 98%;
+    --muted: 222 47% 12%;
+    --muted-foreground: 0 0% 63.9%;
+    --accent: 221 83% 53%;
+    --accent-foreground: 0 0% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 222 47% 15%;
+    --input: 222 47% 15%;
+    --ring: 226 70% 60%;
+    --chart-1: 226 70% 55%;
+    --chart-2: 196 80% 50%;
+    --chart-3: 155 60% 45%;
+    --chart-4: 330 75% 60%;
+    --chart-5: 280 65% 65%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+:root {
+  --sidebar: hsl(226 80% 98%);
+  --sidebar-foreground: hsl(222 47% 20%);
+  --sidebar-primary: hsl(226 70% 55%);
+  --sidebar-primary-foreground: hsl(0 0% 100%);
+  --sidebar-accent: hsl(226 40% 94%);
+  --sidebar-accent-foreground: hsl(226 50% 25%);
+  --sidebar-border: hsl(226 30% 92%);
+  --sidebar-ring: hsl(226 70% 55%);
+}
+
+.dark {
+  --sidebar: hsl(222 47% 9%);
+  --sidebar-foreground: hsl(220 15% 90%);
+  --sidebar-primary: hsl(226 70% 60%);
+  --sidebar-primary-foreground: hsl(0 0% 100%);
+  --sidebar-accent: hsl(222 47% 12%);
+  --sidebar-accent-foreground: hsl(220 15% 90%);
+  --sidebar-border: hsl(222 47% 15%);
+  --sidebar-ring: hsl(226 70% 60%);
+}
+
+@theme inline {
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  ::selection {
+    @apply bg-primary/20 text-primary-foreground;
+  }
+}
+
+/* Enhanced UI Elements */
+@layer components {
+  .btn {
+    @apply rounded-full transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-ring/70 font-medium;
+  }
+  
+  .btn-primary {
+    @apply bg-primary text-primary-foreground hover:bg-primary/90 shadow-sm hover:shadow;
+  }
+  
+  .btn-secondary {
+    @apply bg-secondary text-secondary-foreground hover:bg-secondary/80;
+  }
+  
+  .btn-outline {
+    @apply border border-border bg-background hover:bg-secondary/50 text-foreground;
+  }
+  
+  .card {
+    @apply rounded-xl border border-border bg-card shadow-sm hover:shadow-md transition-shadow duration-200;
+  }
+  
+  .card-gradient {
+    @apply relative overflow-hidden;
+  }
+  
+  .card-gradient::before {
+    @apply content-[''] absolute inset-0 bg-gradient-to-br from-primary/5 to-accent/5 opacity-50 z-0;
+  }
+  
+  .input {
+    @apply rounded-lg border border-input bg-background px-3 py-2 text-foreground focus:outline-none focus:ring-2 focus:ring-ring/70 transition-colors duration-200;
+  }
+  
+  .badge {
+    @apply inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2;
+  }
+  
+  .badge-primary {
+    @apply bg-primary text-primary-foreground hover:bg-primary/80;
+  }
+  
+  .badge-secondary {
+    @apply bg-secondary text-secondary-foreground hover:bg-secondary/80;
+  }
+  
+  .badge-outline {
+    @apply border border-input bg-background text-foreground hover:bg-secondary/50;
+  }
+}
+
+/* Animation utilities */
+@layer utilities {
+
+  
+  .animate-slide-up {
+    animation: slideUp 0.3s ease-out;
+  }
+  
+  @keyframes slideUp {
+    from { transform: translateY(10px); opacity: 0; }
+    to { transform: translateY(0); opacity: 1; }
+  }
+  
+  .animate-slide-in-right {
+    animation: slideInRight 0.3s ease-out;
+  }
+  
+  @keyframes slideInRight {
+    from { transform: translateX(20px); opacity: 0; }
+    to { transform: translateX(0); opacity: 1; }
+  }
+  
+  .animate-slide-in-left {
+    animation: slideInLeft 0.3s ease-out;
+  }
+  
+  @keyframes slideInLeft {
+    from { transform: translateX(-20px); opacity: 0; }
+    to { transform: translateX(0); opacity: 1; }
+  }
+  
+  .animate-pulse-subtle {
+    animation: pulseSubtle 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+  }
+  
+  @keyframes pulseSubtle {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.8; }
+  }
+  
+  .hover-scale {
+    @apply transition-transform duration-200 hover:scale-105;
+  }
+  
+  .hover-lift {
+    @apply transition-all duration-200 hover:-translate-y-1 hover:shadow-md;
+  }
+  
+  /* Gradient text */
+  .text-gradient {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-primary to-accent;
+  }
+}

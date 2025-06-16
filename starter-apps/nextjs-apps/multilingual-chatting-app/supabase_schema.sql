@@ -1,0 +1,1 @@
+CREATE TABLE multilingual_chat ( id SERIAL PRIMARY KEY, sessionid UUID NOT NULL UNIQUE, users JSONB DEFAULT '[]'::jsonb, msgs JSONB DEFAULT '[]'::jsonb, created_at TIMESTAMP WITH TIME ZONE DEFAULT now(), last_activity TIMESTAMP WITH TIME ZONE DEFAULT now() );
