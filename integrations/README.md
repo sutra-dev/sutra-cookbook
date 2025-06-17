@@ -6,6 +6,7 @@ Welcome! This directory showcases how to connect [SUTRA](https://www.two.ai/sutr
 
 - **LlamaIndex integration**: Use SUTRA as an LLM backend for data-augmented agents and retrieval workflows
 - **LangChain integration**: Build advanced chains, tools, and conversational agents with SUTRA
+- **LangGraph integration**: Create complex, stateful agent workflows with LangGraph and SUTRA
 - **Agno integration**: Create agentic, multimodal, and memory-augmented workflows with SUTRA
 - **LiteLLM integration**: Use SUTRA with LiteLLM for unified API access and model routing
 - **Portkey integration**: Integrate SUTRA with Portkey for LLM orchestration and monitoring
@@ -14,6 +15,7 @@ Welcome! This directory showcases how to connect [SUTRA](https://www.two.ai/sutr
 
 - [SUTRA with LlamaIndex](sutra_with_llamaindex.ipynb) ([Open in Colab](https://colab.research.google.com/github/Shubhwithai/sutra-cookbook/blob/main/integrations/sutra_with_llamaindex.ipynb)) - Build RAG applications with LlamaIndex
 - [SUTRA with LangChain](sutra_with_langchain.ipynb) ([Open in Colab](https://colab.research.google.com/drive/1OYpQFo88aLWbv0D1_DA2j4HZGRxTjRcK?usp=sharing)) - Create chains and agents with LangChain
+- [SUTRA with LangGraph](sutra_with_langgraph.ipynb) ([Open in Colab](https://colab.research.google.com/github/Shubhwithai/sutra-cookbook/blob/main/integrations/sutra_with_langgraph.ipynb)) - Create complex, stateful agent workflows with LangGraph
 - [SUTRA with Agno](sutra_with_agno.ipynb) ([Open in Colab](https://colab.research.google.com/github/Shubhwithai/sutra-cookbook/blob/main/integrations/sutra_with_agno.ipynb)) - Build agentic workflows with Agno
 - [SUTRA Using LiteLLM](sutra_using_litellm.ipynb) ([Open in Colab](https://colab.research.google.com/github/Shubhwithai/sutra-cookbook/blob/main/integrations/sutra_using_litellm.ipynb)) - Use SUTRA with LiteLLM for model routing
 - [SUTRA with Portkey](sutra_with_portkey.ipynb) ([Open in Colab](https://colab.research.google.com/github/Shubhwithai/sutra-cookbook/blob/main/integrations/sutra_with_portkey.ipynb)) - Integrate SUTRA with Portkey for LLM orchestration

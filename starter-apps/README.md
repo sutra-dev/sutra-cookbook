@@ -30,6 +30,8 @@ Welcome! This directory features ready-to-use, production-quality applications b
 ### Next.js Apps
 
 - **Multilingual Flashcard Generator**: Create and study flashcards in multiple languages with a modern web interface ([nextjs-apps/multilingual-flashcard-generator](nextjs-apps/multilingual-flashcard-generator/))
+- **Multilingual News Summarizer**: Summarize news articles in multiple languages with a sleek Next.js interface ([nextjs-apps/multilangual-news-summarizer](nextjs-apps/multilangual-news-summarizer/))
+- **Multilingual YouTube Transcript Generator**: Generate and translate YouTube video transcripts in multiple languages ([nextjs-apps/multilingual-youtube-transcript-generator](nextjs-apps/multilingual-youtube-transcript-generator/))
 
 
 ## Prerequisites
