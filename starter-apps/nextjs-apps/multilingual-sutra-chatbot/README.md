@@ -9,6 +9,12 @@ A modern, beautifully designed AI chatbot interface powered by **SUTRA-V2**, ena
 
 ---
 
+## 🌐 Live Demo
+
+[Click here to try the app](https://sutra-multilingual-app.vercel.app/)
+
+---
+
 ## ✨ Features
 
 - 🔑 API key input & verification (supports user-provided keys)
