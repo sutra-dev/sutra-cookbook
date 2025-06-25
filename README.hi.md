@@ -1,7 +1,9 @@
 
 <div align="right">
   <a href="README.md">English</a> |
-  <a href="README.hi.md">हिंदी (Hindi)</a>
+  <a href="README.hi.md">हिंदी (Hindi)</a> |
+  <a href="README.ko.md">한국어 (Korean)</a> |
+  <a href="README.es.md">Español (Spanish)</a>
 </div>
 
 <p align="center">

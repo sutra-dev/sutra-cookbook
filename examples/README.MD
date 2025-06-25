@@ -28,5 +28,9 @@ Welcome! This directory contains example notebooks that showcase how to use [SUT
 3. **Add your SUTRA API key** when prompted (and OpenAI API key for comparison notebooks).
 4. **Run the cells and explore the results!**
 
----
 
+## Related Resources
+
+- [TWO AI Website](https://www.two.ai/sutra)
+- [SUTRA API Key](https://www.two.ai/sutra/api)
+- [SUTRA docs](https://docs.two.ai)

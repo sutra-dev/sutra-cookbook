@@ -32,8 +32,10 @@ Welcome! This directory showcases how to connect [SUTRA](https://www.two.ai/sutr
 3. **Add your SUTRA API key** and any other required keys when prompted (Colab: use the secret manager for best security).
 4. **Run the cells and experiment!**
 
-## Next Steps
+## Related Resources
 
-Explore the rest of the Sutra Cookbook for more advanced use cases, prompt engineering, and real-world applications.
+- [TWO AI Website](https://www.two.ai/sutra)
+- [SUTRA API Key](https://www.two.ai/sutra/api)
+- [SUTRA docs](https://docs.two.ai)
 
 ---

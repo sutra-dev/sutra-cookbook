@@ -53,11 +53,11 @@ Welcome! This directory demonstrates the powerful multilingual capabilities of [
 - Test across multiple languages for robustness
 - Use code-switching for real-world, mixed-language scenarios
 
-## Resources
+## Related Resources
 
-- [SUTRA API Documentation](https://docs.two.ai/version-2/docs/get-started-with-sutra)
-- [Tokenizer Comparison Tool](https://huggingface.co/spaces/TWO/sutra-tokenizer-comparison)
-- [Main SUTRA Cookbooks Repository](https://github.com/Shubhwithai/Sutra_Cookbooks)
+- [TWO AI Website](https://www.two.ai/sutra)
+- [SUTRA API Key](https://www.two.ai/sutra/api)
+- [SUTRA docs](https://docs.two.ai)
 
 ---
 

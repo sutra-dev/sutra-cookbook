@@ -26,11 +26,15 @@ Welcome! This directory features ready-to-use, production-quality applications b
 - **Mindmap Generator**: Create visual mindmaps from text content in multiple languages ([streamlit-apps/mindmap-generator](streamlit-apps/mindmap-generator/))
 - **Multilingual Job Hub**: Search and apply for jobs with multilingual support ([streamlit-apps/multilingual-job-hub](streamlit-apps/multilingual-job-hub/))
 - **Multilingual Shopping Hub**: Shop online with multilingual product descriptions and support ([streamlit-apps/multilingual-shopping-hub](streamlit-apps/multilingual-shopping-hub/))
+- **Multilingual Website Extractor**: Extract and process content from websites in multiple languages ([streamlit-apps/multilingual-website-extractor](streamlit-apps/multilingual-website-extractor/))
+- **Multilingual YouTube Chat**: Interact with YouTube videos in multiple languages ([streamlit-apps/multilingual-youtube-chat](streamlit-apps/multilingual-youtube-chat/))
 
 ### Next.js Apps
 
-- **Multilingual Flashcard Generator**: Create and study flashcards in multiple languages with a modern web interface ([nextjs-apps/multilingual-flashcard-generator](nextjs-apps/multilingual-flashcard-generator/))
 - **Multilingual News Summarizer**: Summarize news articles in multiple languages with a sleek Next.js interface ([nextjs-apps/multilangual-news-summarizer](nextjs-apps/multilangual-news-summarizer/))
+- **Multilingual Chatting App**: Chat in multiple languages with a modern web interface ([nextjs-apps/multilingual-chatting-app](nextjs-apps/multilingual-chatting-app/))
+- **Multilingual Flashcard Generator**: Create and study flashcards in multiple languages with a modern web interface ([nextjs-apps/multilingual-flashcard-generator](nextjs-apps/multilingual-flashcard-generator/))
+- **Multilingual SUTRA Chatbot**: Interactive chatbot powered by SUTRA in multiple languages ([nextjs-apps/multilingual-sutra-chatbot](nextjs-apps/multilingual-sutra-chatbot/))
 - **Multilingual YouTube Transcript Generator**: Generate and translate YouTube video transcripts in multiple languages ([nextjs-apps/multilingual-youtube-transcript-generator](nextjs-apps/multilingual-youtube-transcript-generator/))
 
 
@@ -70,6 +74,8 @@ Welcome! This directory features ready-to-use, production-quality applications b
 - **Agriculture and rural advisory**: Tools for farmers and agricultural information
 - **News and content**: News summarization, translation, and content creation
 - **E-commerce and job search**: Multilingual shopping and employment platforms
+- **Website Extractor**: Extract and process content from websites in multiple languages
+- **YouTube Chat**: Interact with YouTube videos in multiple languages
 
 ---
 

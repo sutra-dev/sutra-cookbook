@@ -1,7 +1,9 @@
 
 <div align="right">
   <a href="README.md">English</a> |
-  <a href="README.hi.md">हिंदी (Hindi)</a>
+  <a href="README.hi.md">हिंदी (Hindi)</a> |
+  <a href="README.ko.md">한국어 (Korean)</a> |
+  <a href="README.es.md">Español (Spanish)</a>
 </div>
 
 <p align="center">
@@ -131,6 +133,7 @@ async function testSutra() {
 ## Resources
 
 - Join our [Discord](https://discord.com/invite/NK9h6MFpxF) community for real-time support and discussions
+- SUTRA Docs [here](https://docs.two.ai)
 - Chat with us on [Chat with SUTRA](https://chat.two.ai/)
 - Follow [SUTRA](https://twitter.com/sutra_dev) on Twitter for updates
 
