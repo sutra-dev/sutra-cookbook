@@ -133,6 +133,7 @@ async function testSutra() {
 ## Resources
 
 - Join our [Discord](https://discord.com/invite/NK9h6MFpxF) community for real-time support and discussions
+- SUTRA Docs [here](https://docs.two.ai)
 - Chat with us on [Chat with SUTRA](https://chat.two.ai/)
 - Follow [SUTRA](https://twitter.com/sutra_dev) on Twitter for updates
 
