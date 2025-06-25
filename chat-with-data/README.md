@@ -58,3 +58,10 @@ This directory contains examples and best practices for implementing Retrieval-A
 3. **Add your SUTRA API key** and vector database credentials when prompted.
 4. **Upload your PDF documents** or provide URLs to test the RAG implementation.
 5. **Run the cells and experiment!**
+
+
+## Related Resources
+
+- [TWO AI Website](https://www.two.ai/sutra)
+- [SUTRA API Key](https://www.two.ai/sutra/api)
+- [SUTRA docs](https://docs.two.ai)
