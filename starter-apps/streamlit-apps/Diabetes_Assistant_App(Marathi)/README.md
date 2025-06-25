@@ -58,10 +58,11 @@ sutra_agent = Agent(
 ```
 
 4. **Run the `app.py` script as:**
-   ```python
-   streamlit run app.py
-   ```
    
+```python
+streamlit run app.py
+```
+
 ---
 
 ## 💡 How It Works
