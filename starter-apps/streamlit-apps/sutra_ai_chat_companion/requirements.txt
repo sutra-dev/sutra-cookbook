@@ -1,0 +1,6 @@
+streamlit
+requests
+googletrans
+openai
+mem0ai
+agno
