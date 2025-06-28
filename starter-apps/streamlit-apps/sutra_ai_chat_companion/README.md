@@ -47,10 +47,7 @@ pip install agno openai
 pip install googletrans==4.0.0rc1
 ```
 
-4. **Add your logo**
-Place your logo file as `logo_bg.png` in the project directory.
-
-5. **Run the application**
+4. **Run the application**
 ```bash
 streamlit run app.py
 ```
