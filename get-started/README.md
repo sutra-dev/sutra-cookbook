@@ -35,5 +35,11 @@ Welcome! This directory contains hands-on guides and beginner-friendly notebooks
 4. **Run the cells and experiment!**
 
 
+## Related Resources
+
+- [TWO AI Website](https://www.two.ai/sutra)
+- [SUTRA API Key](https://www.two.ai/sutra/api)
+- [SUTRA docs](https://docs.two.ai)
+
 ---
 
