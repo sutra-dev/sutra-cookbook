@@ -29,6 +29,7 @@ Welcome! This directory features ready-to-use, production-quality applications b
 - **Multilingual Website Extractor**: Extract and process content from websites in multiple languages ([streamlit-apps/multilingual-website-extractor](streamlit-apps/multilingual-website-extractor/))
 - **Multilingual YouTube Chat**: Interact with YouTube videos in multiple languages ([streamlit-apps/multilingual-youtube-chat](streamlit-apps/multilingual-youtube-chat/))
 
+
 ### Next.js Apps
 
 - **Multilingual News Summarizer**: Summarize news articles in multiple languages with a sleek Next.js interface ([nextjs-apps/multilangual-news-summarizer](nextjs-apps/multilangual-news-summarizer/))

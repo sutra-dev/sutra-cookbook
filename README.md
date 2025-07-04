@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.two.ai/sutra/api"><img src="https://img.shields.io/badge/API-Active-success.svg" alt="API Status"></a>
+  <a href="https://developer.two.ai/"><img src="https://img.shields.io/badge/API-Active-success.svg" alt="API Status"></a>
   <a href="https://docs.two.ai/"><img src="https://img.shields.io/badge/Docs-Available-blue.svg" alt="Documentation"></a>
   <a href="https://www.two.ai/sutra"><img src="https://img.shields.io/badge/Languages-50%2B-orange.svg" alt="Languages"></a>
   <a href="https://x.com/sutra_dev"><img src="https://img.shields.io/twitter/follow/sutra_dev?style=social" alt="Twitter Follow"></a>
@@ -41,7 +41,7 @@ SUTRA is a family of large multi-lingual language models (LMLMs) developed by [T
 
 ## Get Your API Key
 
-Get your API key by visiting [TWO AI's SUTRA API page](https://www.two.ai/sutra/api).
+Get your API key by visiting [TWO AI's SUTRA API Page](https://developer.two.ai/).
 
 ⚠️ **Security Note:** Keep your API key secure! Never expose it in client-side code or public repositories.
 

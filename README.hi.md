@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.two.ai/sutra/api"><img src="https://img.shields.io/badge/API-Active-success.svg" alt="API Status"></a>
+  <a href="https://developer.two.ai/"><img src="https://img.shields.io/badge/API-Active-success.svg" alt="API Status"></a>
   <a href="https://docs.two.ai/version-2/docs/get-started-with-sutra"><img src="https://img.shields.io/badge/Docs-Available-blue.svg" alt="Documentation"></a>
   <a href="https://www.two.ai/sutra"><img src="https://img.shields.io/badge/Languages-50%2B-orange.svg" alt="Languages"></a>
   <a href="https://twitter.com/two_platforms"><img src="https://img.shields.io/twitter/follow/two_platforms?style=social" alt="Twitter Follow"></a>
@@ -41,7 +41,7 @@ SUTRA बड़े बहुभाषी भाषा मॉडल्स (LMLMs)
 
 ## अपनी API कुंजी प्राप्त करें
 
-[TWO AI की SUTRA API पेज](https://www.two.ai/sutra/api) पर जाकर अपनी API कुंजी प्राप्त करें।
+[TWO AI की SUTRA API पेज](https://developer.two.ai/) पर जाकर अपनी API कुंजी प्राप्त करें।
 
 ⚠️ **सुरक्षा नोट:** अपनी API कुंजी को सुरक्षित रखें! इसे कभी भी क्लाइंट-साइड कोड या सार्वजनिक रिपॉजिटरी में उजागर न करें।
 
