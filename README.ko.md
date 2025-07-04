@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.two.ai/sutra/api"><img src="https://img.shields.io/badge/API-Active-success.svg" alt="API 상태"></a>
+  <a href="https://developer.two.ai/"><img src="https://img.shields.io/badge/API-Active-success.svg" alt="API 상태"></a>
   <a href="https://docs.two.ai/"><img src="https://img.shields.io/badge/Docs-Available-blue.svg" alt="문서"></a>
   <a href="https://www.two.ai/sutra"><img src="https://img.shields.io/badge/Languages-50%2B-orange.svg" alt="언어"></a>
   <a href="https://x.com/sutra_dev"><img src="https://img.shields.io/twitter/follow/sutra_dev?style=social" alt="Twitter 팔로우"></a>
@@ -40,7 +40,7 @@ SUTRA는 [TWO AI](https://www.two.ai)에서 개발한 대규모 다국어 언어
 
 ## API 키 얻기
 
-[TWO AI의 SUTRA API 페이지](https://www.two.ai/sutra/api)를 방문하여 API 키를 얻으세요.
+[TWO AI의 SUTRA API 페이지](https://developer.two.ai/)를 방문하여 API 키를 얻으세요.
 
 ⚠️ **보안 참고 사항:** API 키를 안전하게 보관하세요! 클라이언트 측 코드나 공개 저장소에 노출하지 마세요.
 

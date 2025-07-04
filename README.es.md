@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.two.ai/sutra/api"><img src="https://img.shields.io/badge/API-Active-success.svg" alt="Estado de API"></a>
+  <a href="https://developer.two.ai/"><img src="https://img.shields.io/badge/API-Active-success.svg" alt="Estado de API"></a>
   <a href="https://docs.two.ai/"><img src="https://img.shields.io/badge/Docs-Available-blue.svg" alt="Documentación"></a>
   <a href="https://www.two.ai/sutra"><img src="https://img.shields.io/badge/Languages-50%2B-orange.svg" alt="Idiomas"></a>
   <a href="https://x.com/sutra_dev"><img src="https://img.shields.io/twitter/follow/sutra_dev?style=social" alt="Seguir en Twitter"></a>
@@ -40,7 +40,7 @@ SUTRA es una familia de modelos de lenguaje multilingües de gran escala (LMLM) 
 
 ## Obtén Tu Clave API
 
-Obtén tu clave API visitando la [página de API SUTRA de TWO AI](https://www.two.ai/sutra/api).
+Obtén tu clave API visitando la [página de API SUTRA de TWO AI](https://developer.two.ai/).
 
 ⚠️ **Nota de Seguridad:** ¡Mantén tu clave API segura! Nunca la expongas en código del lado del cliente o repositorios públicos.
 

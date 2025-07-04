@@ -41,5 +41,5 @@ Refer to the examples in this directory to learn how to create, configure, and d
 ## Related Resources
 
 - [TWO AI Website](https://www.two.ai/sutra)
-- [SUTRA API Key](https://www.two.ai/sutra/api)
+- [SUTRA API Key](https://developer.two.ai/)
 - [SUTRA docs](https://docs.two.ai)
