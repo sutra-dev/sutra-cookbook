@@ -58,6 +58,8 @@ Welcome! This directory demonstrates the powerful multilingual capabilities of [
 - [TWO AI Website](https://www.two.ai/sutra)
 - [SUTRA API Key](https://developer.two.ai/)
 - [SUTRA docs](https://docs.two.ai)
+- [SUTRA Discord](https://discord.com/invite/NK9h6MFpxF)
+
 
 ---
 

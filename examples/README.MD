@@ -13,6 +13,7 @@ Welcome! This directory contains example notebooks that showcase how to use [SUT
 - [SUTRA vs OpenAI Models](sutra_vs_openai_models.ipynb) ([Open in Colab](https://colab.research.google.com/drive/175pEoGuZX_6s2lxzXiiT4lYS76QIdg-k?usp=sharing)) — Compare SUTRA V2 and OpenAI models across a variety of tasks and metrics
 - [Structured Output with Pydantic](structured_output_with_pydantic.ipynb) ([Open in Colab](https://colab.research.google.com/github/Shubhwithai/sutra-cookbook/blob/main/examples/structured_output_with_pydantic.ipynb)) — Use Pydantic to get structured outputs from SUTRA
 - [Multilingual MCQ Generation with SUTRA](multilingual_mcq_generation_with_sutra.ipynb) ([Open in Colab](https://colab.research.google.com/drive/18POcDv67qN0_CJo-_BPr6VE-r5RlXUYC?usp=sharing)) — Generate multiple-choice questions in various languages using SUTRA and Educhain
+- [SUTRA with ReAct Agent](react_using_sutra.ipynb) ([Open in Colab](https://colab.research.google.com/github/Shubhwithai/sutra-cookbook/blob/main/examples/react_using_sutra.ipynb))
 
 ## Prerequisites
 

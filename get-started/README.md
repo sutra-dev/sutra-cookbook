@@ -20,6 +20,7 @@ Welcome! This directory contains hands-on guides and beginner-friendly notebooks
 - [Structured Output with SUTRA](structured_output_with_sutra.ipynb) ([Open in Colab](https://colab.research.google.com/drive/1Gi_YPaFPm-iJcEdslSvgf-xWGhAGjwjJ?usp=sharing)) - Get JSON and other structured responses
 - [SUTRA Reasoning Quickstart](sutra_reasoning_quickstart.ipynb) ([Open in Colab](https://colab.research.google.com/drive/1LIFr44A-VnTnDPqz2S5m9f118r-o5nBy?usp=sharing)) - Multi-step reasoning capabilities
 - [Basics of SUTRA Streaming](basics_of_sutra_streaming.ipynb) ([Open in Colab](https://colab.research.google.com/drive/1zWzkMPyy22J98U4OBZIz_xinwhw8cPV_?usp=sharing)) - Stream responses word-by-word
+- Online Search with SUTRA ([Open in Colab](https://colab.research.google.com/github/Shubhwithai/sutra-cookbook/blob/main/get-started/online_search_with_sutra.ipynb))
 
 ## Prerequisites
 

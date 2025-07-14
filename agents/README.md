@@ -25,6 +25,7 @@ This cookbook demonstrates SUTRA integration with the following agent libraries 
 - [SUTRA with Strands Agents](sutra_with_strands_agents.ipynb) ([Open in Colab](https://colab.research.google.com/github/Shubhwithai/sutra-cookbook/blob/main/agents/sutra_with_strands_agents.ipynb)) - Build agents with Strands framework
 - [SmolaGents with SUTRA](smolagents_with_sutra.ipynb) ([Open in Colab](https://colab.research.google.com/github/Shubhwithai/sutra-cookbook/blob/main/agents/smolagents_with_sutra.ipynb)) - Create lightweight, efficient agents with SmolaGents
 - [SUTRA with AI Suite](sutra_with_aisuite.ipynb) ([Open in Colab](https://colab.research.google.com/github/Shubhwithai/sutra-cookbook/blob/main/agents/sutra_with_aisuite.ipynb)) - Build comprehensive agent applications with AI Suite
+- [SUTRA with PraisonAI](sutra_with_praison.ipynb) ([Open in Colab](https://colab.research.google.com/github/Shubhwithai/sutra-cookbook/blob/main/agents/sutra_with_praison.ipynb)) - Build comprehensive agent applications with PraisonAI
 
 ## Contents
 

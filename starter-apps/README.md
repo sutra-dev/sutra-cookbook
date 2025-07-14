@@ -39,6 +39,11 @@ Welcome! This directory features ready-to-use, production-quality applications b
 - **Multilingual YouTube Transcript Generator**: Generate and translate YouTube video transcripts in multiple languages ([nextjs-apps/multilingual-youtube-transcript-generator](nextjs-apps/multilingual-youtube-transcript-generator/))
 
 
+### FastAPI Apps
+
+- **Multilingual News Summarizer**: Summarize news articles in multiple languages with a sleek FastAPI interface ([fastapi-apps/multilangual-news-summarizer](fastapi-apps/multilangual-news-summarizer/))
+
+
 ## Prerequisites
 
 - Python 3.9+ (for Streamlit apps)

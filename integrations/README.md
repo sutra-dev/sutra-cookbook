@@ -37,5 +37,6 @@ Welcome! This directory showcases how to connect [SUTRA](https://www.two.ai/sutr
 - [TWO AI Website](https://www.two.ai/sutra)
 - [SUTRA API Key](https://developer.two.ai/)
 - [SUTRA docs](https://docs.two.ai)
+- [SUTRA Discord](https://discord.com/invite/NK9h6MFpxF)
 
 ---
